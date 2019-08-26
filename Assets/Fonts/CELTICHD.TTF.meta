@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 681735a60c523a5419e75441626326a8
+timeCreated: 1510823504
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CelticHand
+  fontNames:
+  - CelticHand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3584 @@
+fileFormatVersion: 2
+guid: 89b69eb546b66314b93e20abaee51c4e
+timeCreated: 1511080258
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Link_SpriteSheetMirror_0
+    21300002: Link_SpriteSheetMirror_1
+    21300004: Link_SpriteSheetMirror_2
+    21300006: Link_SpriteSheetMirror_3
+    21300008: Link_SpriteSheetMirror_4
+    21300010: Link_SpriteSheetMirror_5
+    21300012: Link_SpriteSheetMirror_6
+    21300014: Link_SpriteSheetMirror_7
+    21300016: Link_SpriteSheetMirror_8
+    21300018: Link_SpriteSheetMirror_9
+    21300020: Link_SpriteSheetMirror_10
+    21300022: Link_SpriteSheetMirror_11
+    21300024: Link_SpriteSheetMirror_12
+    21300026: Link_SpriteSheetMirror_13
+    21300028: Link_SpriteSheetMirror_14
+    21300030: Link_SpriteSheetMirror_15
+    21300032: Link_SpriteSheetMirror_16
+    21300034: Link_SpriteSheetMirror_17
+    21300036: Link_SpriteSheetMirror_18
+    21300038: Link_SpriteSheetMirror_19
+    21300040: Link_SpriteSheetMirror_20
+    21300042: Link_SpriteSheetMirror_21
+    21300044: Link_SpriteSheetMirror_22
+    21300046: Link_SpriteSheetMirror_23
+    21300048: Link_SpriteSheetMirror_24
+    21300050: Link_SpriteSheetMirror_25
+    21300052: Link_SpriteSheetMirror_26
+    21300054: Link_SpriteSheetMirror_27
+    21300056: Link_SpriteSheetMirror_28
+    21300058: Link_SpriteSheetMirror_29
+    21300060: Link_SpriteSheetMirror_30
+    21300062: Link_SpriteSheetMirror_31
+    21300064: Link_SpriteSheetMirror_32
+    21300066: Link_SpriteSheetMirror_33
+    21300068: Link_SpriteSheetMirror_34
+    21300070: Link_SpriteSheetMirror_35
+    21300072: Link_SpriteSheetMirror_36
+    21300074: Link_SpriteSheetMirror_37
+    21300076: Link_SpriteSheetMirror_38
+    21300078: Link_SpriteSheetMirror_39
+    21300080: Link_SpriteSheetMirror_40
+    21300082: Link_SpriteSheetMirror_41
+    21300084: Link_SpriteSheetMirror_42
+    21300086: Link_SpriteSheetMirror_43
+    21300088: Link_SpriteSheetMirror_44
+    21300090: Link_SpriteSheetMirror_45
+    21300092: Link_SpriteSheetMirror_46
+    21300094: Link_SpriteSheetMirror_47
+    21300096: Link_SpriteSheetMirror_48
+    21300098: Link_SpriteSheetMirror_49
+    21300100: Link_SpriteSheetMirror_50
+    21300102: Link_SpriteSheetMirror_51
+    21300104: Link_SpriteSheetMirror_52
+    21300106: Link_SpriteSheetMirror_53
+    21300108: Link_SpriteSheetMirror_54
+    21300110: Link_SpriteSheetMirror_55
+    21300112: Link_SpriteSheetMirror_56
+    21300114: Link_SpriteSheetMirror_57
+    21300116: Link_SpriteSheetMirror_58
+    21300118: Link_SpriteSheetMirror_59
+    21300120: Link_SpriteSheetMirror_60
+    21300122: Link_SpriteSheetMirror_61
+    21300124: Link_SpriteSheetMirror_62
+    21300126: Link_SpriteSheetMirror_63
+    21300128: Link_SpriteSheetMirror_64
+    21300130: Link_SpriteSheetMirror_65
+    21300132: Link_SpriteSheetMirror_66
+    21300134: Link_SpriteSheetMirror_67
+    21300136: Link_SpriteSheetMirror_68
+    21300138: Link_SpriteSheetMirror_69
+    21300140: Link_SpriteSheetMirror_70
+    21300142: Link_SpriteSheetMirror_71
+    21300144: Link_SpriteSheetMirror_72
+    21300146: Link_SpriteSheetMirror_73
+    21300148: Link_SpriteSheetMirror_74
+    21300150: Link_SpriteSheetMirror_75
+    21300152: Link_SpriteSheetMirror_76
+    21300154: Link_SpriteSheetMirror_77
+    21300156: Link_SpriteSheetMirror_78
+    21300158: Link_SpriteSheetMirror_79
+    21300160: Link_SpriteSheetMirror_80
+    21300162: Link_SpriteSheetMirror_81
+    21300164: Link_SpriteSheetMirror_82
+    21300166: Link_SpriteSheetMirror_83
+    21300168: Link_SpriteSheetMirror_84
+    21300170: Link_SpriteSheetMirror_85
+    21300172: Link_SpriteSheetMirror_86
+    21300174: Link_SpriteSheetMirror_87
+    21300176: Link_SpriteSheetMirror_88
+    21300178: Link_SpriteSheetMirror_89
+    21300180: Link_SpriteSheetMirror_90
+    21300182: Link_SpriteSheetMirror_91
+    21300184: Link_SpriteSheetMirror_92
+    21300186: Link_SpriteSheetMirror_93
+    21300188: Link_SpriteSheetMirror_94
+    21300190: Link_SpriteSheetMirror_95
+    21300192: Link_SpriteSheetMirror_96
+    21300194: Link_SpriteSheetMirror_97
+    21300196: Link_SpriteSheetMirror_98
+    21300198: Link_SpriteSheetMirror_99
+    21300200: Link_SpriteSheetMirror_100
+    21300202: Link_SpriteSheetMirror_101
+    21300204: Link_SpriteSheetMirror_102
+    21300206: Link_SpriteSheetMirror_103
+    21300208: Link_SpriteSheetMirror_104
+    21300210: Link_SpriteSheetMirror_105
+    21300212: Link_SpriteSheetMirror_106
+    21300214: Link_SpriteSheetMirror_107
+    21300216: Link_SpriteSheetMirror_108
+    21300218: Link_SpriteSheetMirror_109
+    21300220: Link_SpriteSheetMirror_110
+    21300222: Link_SpriteSheetMirror_111
+    21300224: Link_SpriteSheetMirror_112
+    21300226: Link_SpriteSheetMirror_113
+    21300228: Link_SpriteSheetMirror_114
+    21300230: Link_SpriteSheetMirror_115
+    21300232: Link_SpriteSheetMirror_116
+    21300234: Link_SpriteSheetMirror_117
+    21300236: Link_SpriteSheetMirror_118
+    21300238: Link_SpriteSheetMirror_119
+    21300240: Link_SpriteSheetMirror_120
+    21300242: Link_SpriteSheetMirror_121
+    21300244: Link_SpriteSheetMirror_122
+    21300246: Link_SpriteSheetMirror_123
+    21300248: Link_SpriteSheetMirror_124
+    21300250: Link_SpriteSheetMirror_125
+    21300252: Link_SpriteSheetMirror_126
+    21300254: Link_SpriteSheetMirror_127
+    21300256: Link_SpriteSheetMirror_128
+    21300258: Link_SpriteSheetMirror_129
+    21300260: Link_SpriteSheetMirror_130
+    21300262: Link_SpriteSheetMirror_131
+    21300264: Link_SpriteSheetMirror_132
+    21300266: Link_SpriteSheetMirror_133
+    21300268: Link_SpriteSheetMirror_134
+    21300270: Link_SpriteSheetMirror_135
+    21300272: Link_SpriteSheetMirror_136
+    21300274: Link_SpriteSheetMirror_137
+    21300276: Link_SpriteSheetMirror_138
+    21300278: Link_SpriteSheetMirror_139
+    21300280: Link_SpriteSheetMirror_140
+    21300282: Link_SpriteSheetMirror_141
+    21300284: Link_SpriteSheetMirror_142
+    21300286: Link_SpriteSheetMirror_143
+    21300288: Link_SpriteSheetMirror_144
+    21300290: Link_SpriteSheetMirror_145
+    21300292: Link_SpriteSheetMirror_146
+    21300294: Link_SpriteSheetMirror_147
+    21300296: Link_SpriteSheetMirror_148
+    21300298: Link_SpriteSheetMirror_149
+    21300300: Link_SpriteSheetMirror_150
+    21300302: Link_SpriteSheetMirror_151
+    21300304: Link_SpriteSheetMirror_152
+    21300306: Link_SpriteSheetMirror_153
+    21300308: Link_SpriteSheetMirror_154
+    21300310: Link_SpriteSheetMirror_155
+    21300312: Link_SpriteSheetMirror_156
+    21300314: Link_SpriteSheetMirror_157
+    21300316: Link_SpriteSheetMirror_158
+    21300318: Link_SpriteSheetMirror_159
+    21300320: Link_SpriteSheetMirror_160
+    21300322: Link_SpriteSheetMirror_161
+    21300324: Link_SpriteSheetMirror_162
+    21300326: Link_SpriteSheetMirror_163
+    21300328: Link_SpriteSheetMirror_164
+    21300330: Link_SpriteSheetMirror_165
+    21300332: Link_SpriteSheetMirror_166
+    21300334: Link_SpriteSheetMirror_167
+    21300336: Link_SpriteSheetMirror_168
+    21300338: Link_SpriteSheetMirror_169
+    21300340: Link_SpriteSheetMirror_170
+    21300342: Link_SpriteSheetMirror_171
+    21300344: Link_SpriteSheetMirror_172
+    21300346: Link_SpriteSheetMirror_173
+    21300348: Link_SpriteSheetMirror_174
+    21300350: Link_SpriteSheetMirror_175
+    21300352: Link_SpriteSheetMirror_176
+    21300354: Link_SpriteSheetMirror_177
+    21300356: Link_SpriteSheetMirror_178
+    21300358: Link_SpriteSheetMirror_179
+    21300360: Link_SpriteSheetMirror_180
+    21300362: Link_SpriteSheetMirror_181
+    21300364: Link_SpriteSheetMirror_182
+    21300366: Link_SpriteSheetMirror_183
+    21300368: Link_SpriteSheetMirror_184
+    21300370: Link_SpriteSheetMirror_185
+    21300372: Link_SpriteSheetMirror_186
+    21300374: Link_SpriteSheetMirror_187
+    21300376: Link_SpriteSheetMirror_188
+    21300378: Link_SpriteSheetMirror_189
+    21300380: Link_SpriteSheetMirror_190
+    21300382: Link_SpriteSheetMirror_191
+    21300384: Link_SpriteSheetMirror_192
+    21300386: Link_SpriteSheetMirror_193
+    21300388: Link_SpriteSheetMirror_194
+    21300390: Link_SpriteSheetMirror_195
+    21300392: Link_SpriteSheetMirror_196
+    21300394: Link_SpriteSheetMirror_197
+    21300396: Link_SpriteSheetMirror_198
+    21300398: Link_SpriteSheetMirror_199
+    21300400: Link_SpriteSheetMirror_200
+    21300402: Link_SpriteSheetMirror_201
+    21300404: Link_SpriteSheetMirror_202
+    21300406: Link_SpriteSheetMirror_203
+    21300408: Link_SpriteSheetMirror_204
+    21300410: Link_SpriteSheetMirror_205
+    21300412: Link_SpriteSheetMirror_206
+    21300414: Link_SpriteSheetMirror_207
+    21300416: Link_SpriteSheetMirror_208
+    21300418: Link_SpriteSheetMirror_209
+    21300420: Link_SpriteSheetMirror_210
+    21300422: Link_SpriteSheetMirror_211
+    21300424: Link_SpriteSheetMirror_212
+    21300426: Link_SpriteSheetMirror_213
+    21300428: Link_SpriteSheetMirror_214
+    21300430: Link_SpriteSheetMirror_215
+    21300432: Link_SpriteSheetMirror_216
+    21300434: Link_SpriteSheetMirror_217
+    21300436: Link_SpriteSheetMirror_218
+    21300438: Link_SpriteSheetMirror_219
+    21300440: Link_SpriteSheetMirror_220
+    21300442: Link_SpriteSheetMirror_221
+    21300444: Link_SpriteSheetMirror_222
+    21300446: Link_SpriteSheetMirror_223
+    21300448: Link_SpriteSheetMirror_224
+    21300450: Link_SpriteSheetMirror_225
+    21300452: Link_SpriteSheetMirror_226
+    21300454: Link_SpriteSheetMirror_227
+    21300456: Link_SpriteSheetMirror_228
+    21300458: Link_SpriteSheetMirror_229
+    21300460: Link_SpriteSheetMirror_230
+    21300462: Link_SpriteSheetMirror_231
+    21300464: Link_SpriteSheetMirror_232
+    21300466: Link_SpriteSheetMirror_233
+    21300468: Link_SpriteSheetMirror_234
+    21300470: Link_SpriteSheetMirror_235
+    21300472: Link_SpriteSheetMirror_236
+    21300474: Link_SpriteSheetMirror_237
+    21300476: Link_SpriteSheetMirror_238
+    21300478: Link_SpriteSheetMirror_239
+    21300480: Link_SpriteSheetMirror_240
+    21300482: Link_SpriteSheetMirror_241
+    21300484: Link_SpriteSheetMirror_242
+    21300486: Link_SpriteSheetMirror_243
+    21300488: Link_SpriteSheetMirror_244
+    21300490: Link_SpriteSheetMirror_245
+    21300492: Link_SpriteSheetMirror_246
+    21300494: Link_SpriteSheetMirror_247
+    21300496: Link_SpriteSheetMirror_248
+    21300498: Link_SpriteSheetMirror_249
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 22
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 308
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_1
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 356
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_2
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 385
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 349
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 349
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 349
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 349
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 349
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 349
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 349
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 348
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 349
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 349
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 356
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 356
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 356
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 356
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 356
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_20
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 356
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 356
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 356
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_24
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 356
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_25
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 356
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 356
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_28
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 356
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 303
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 299
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 300
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 309
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 309
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 309
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 304
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 293
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 293
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 295
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 304
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 312
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 312
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 312
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_43
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 312
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 312
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 312
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 312
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 312
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_50
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_51
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 312
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 312
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 312
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 312
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_55
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 312
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_56
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 312
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_57
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 312
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_58
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 312
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_59
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 312
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 272
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 272
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 272
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 272
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 272
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_66
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 272
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_67
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 272
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_68
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 272
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 272
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_70
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 272
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_71
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 272
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_72
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 272
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_73
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 272
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_74
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 272
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_75
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 272
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_76
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 272
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_77
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 272
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_78
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 272
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_79
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 272
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_80
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 272
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 227
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 227
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 227
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_84
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 227
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 227
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_86
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 219
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 227
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 227
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_89
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 227
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_90
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 226
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_91
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 229
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_92
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 226
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_94
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 238
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_96
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_97
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_98
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_99
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_100
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_101
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 232
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_103
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 232
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_105
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_106
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_107
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 232
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_108
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 232
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_109
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_110
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_111
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_112
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 233
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_113
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 233
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_114
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 220
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_115
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 200
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_116
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 200
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_117
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 199
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_118
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 199
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 199
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_120
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_121
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_122
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_123
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_124
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 199
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_125
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_126
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_127
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_128
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_129
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_130
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_131
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_132
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 188
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_133
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 187
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_134
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 200
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_135
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_136
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 198
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_137
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 176
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_138
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 167
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_139
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 170
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_140
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 176
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_141
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 176
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_142
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 176
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 176
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 189
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_145
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 126
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_146
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 159
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_147
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 159
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 159
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_149
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 159
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_150
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 159
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_151
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 159
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_152
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 159
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_153
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 159
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_154
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 159
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_155
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_156
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 160
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_157
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 160
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_158
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_159
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_160
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 160
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_161
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 160
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_162
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_163
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_164
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 126
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_165
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 126
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_166
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 126
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_167
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 126
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_168
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 126
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_169
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 124
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_170
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 124
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_171
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 125
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_172
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 125
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_173
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_174
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_175
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_176
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_177
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 124
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_178
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 124
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_179
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 130
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_180
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_181
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_182
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 128
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_183
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 129
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_184
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_185
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 130
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_186
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 130
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_187
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 130
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_188
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 130
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_189
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_190
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 130
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_191
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 78
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_192
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_193
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 78
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_194
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 77
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_195
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 78
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_196
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 84
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_197
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 86
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_198
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 98
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_199
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 96
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_200
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 96
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_201
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 96
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_202
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 97
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_203
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 97
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_204
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 97
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_205
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 97
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_206
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 97
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_207
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 98
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_208
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 98
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_209
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 98
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_210
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 98
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_211
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 240
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_212
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 61
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_213
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 51
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_214
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 61
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_215
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 61
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_216
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 61
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_217
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 61
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_218
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 61
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_219
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 61
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_220
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 61
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_221
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 61
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_222
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 61
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_223
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 61
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_224
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_225
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 64
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_226
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 64
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_227
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 64
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_228
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 32
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_229
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_230
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_231
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_232
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_233
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 32
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_234
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 27
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_235
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 27
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_236
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_237
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 32
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_238
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_239
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 32
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_240
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 32
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_241
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 32
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_242
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 32
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_243
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 26
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_244
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 26
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_245
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 25
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_246
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 25
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_247
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 22
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_248
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_SpriteSheetMirror_249
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 25
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

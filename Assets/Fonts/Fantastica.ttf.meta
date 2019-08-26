@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e97dc6530a4d09c48894d230f806936b
+timeCreated: 1510823515
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fantastica
+  fontNames:
+  - Fantastica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5cc552460f55c684d932bfff40087f41, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
